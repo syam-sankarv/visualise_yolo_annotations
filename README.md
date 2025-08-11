@@ -32,7 +32,10 @@ You can install the required packages using pip:
 ```bash
 pip install opencv-python matplotlib numpy
 
+---
+
 Run the script from the terminal with the following required arguments:
+
 ```bash
 python visualize_yolo_polygons.py --image_dir <path_to_images> --label_dir <path_to_annotations>
 
