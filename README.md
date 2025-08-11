@@ -29,4 +29,5 @@ Make sure you have Python 3.x installed. You will need the following Python pack
 
 You can install the required packages using pip:
 
+```bash
 pip install opencv-python matplotlib numpy
