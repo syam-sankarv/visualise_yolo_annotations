@@ -31,11 +31,9 @@ You can install the required packages using pip:
 
 ```bash
 pip install opencv-python matplotlib numpy
-
+```
 ---
 
-
-```markdown
 Run the script from the terminal with the following required arguments:
 
 ```
