@@ -41,6 +41,5 @@ python visualize\_yolo\_polygons.py --image\_dir \<path\_to\_images> --label\_di
 - `--image_dir`: The directory path containing your images (.jpg, .png, .jpeg).
 
 - `--label_dir`: The directory path containing YOLO polygon annotation text files. Each `.txt` file should have the same base filename as its corresponding image.
-```
----
+
 
