@@ -34,12 +34,20 @@ pip install opencv-python matplotlib numpy
 
 ---
 
+
+```markdown
 Run the script from the terminal with the following required arguments:
 
-```bash
-python visualize_yolo_polygons.py --image_dir <path_to_images> --label_dir <path_to_annotations>
+```
 
---image_dir: The directory path containing your images (.jpg, .png, .jpeg).
+python visualize\_yolo\_polygons.py --image\_dir \<path\_to\_images> --label\_dir \<path\_to\_annotations>
 
---label_dir: The directory path containing YOLO polygon annotation text files. Each .txt file should have the same base filename as its corresponding image.
+```
+
+- `--image_dir`: The directory path containing your images (.jpg, .png, .jpeg).
+
+- `--label_dir`: The directory path containing YOLO polygon annotation text files. Each `.txt` file should have the same base filename as its corresponding image.
+```
+
+---
 
